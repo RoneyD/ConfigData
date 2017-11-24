@@ -2,3 +2,4 @@ word:
  - "Irish"
  - "Rabbit's Foot"
  - "Serendipity"
+server.port = 8002
