@@ -2,4 +2,5 @@ word:
  - "Irish"
  - "Rabbit's Foot"
  - "Serendipity"
-server.port = 8002
+server:
+ port: 8002
