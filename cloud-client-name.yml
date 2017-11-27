@@ -1,5 +1,5 @@
 word:
-- 'The stupid word!'
-- 'The stupid word 2'
+ - 'The stupid word!'
+ - 'The stupid word 2'
 server:
   port: 8002
