@@ -1,6 +1,3 @@
-word:
-  - 'Irish'
-  - "Rabbit's Foot"
-  - 'Serendipity'
+word: 'The stupid word!'
 server:
   port: 8002
